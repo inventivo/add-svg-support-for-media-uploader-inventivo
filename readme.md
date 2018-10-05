@@ -12,7 +12,7 @@ Visit our <a href="https://www.inventivo.de/seo-muenster"> website</a> in order 
 * Lighweight code
 
 **Get your copy of the Add SVG Support for Media Uploader Plugin now!**
-
+git s
 ### Prerequisites
 
 * WordPress 3.0 and later
