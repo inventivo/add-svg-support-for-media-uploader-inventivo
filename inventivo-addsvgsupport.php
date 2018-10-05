@@ -3,13 +3,13 @@ Contributors: inventivogermany
 Plugin Name:  Add SVG Support for Media Uploader | inventivo
 Plugin URI:   https://www.inventivo.de/wordpress-agentur/wordpress-plugins
 Description:  Add SVG Support for Media Uploader
-Version:      0.0.2
+Version:      0.0.3
 Author:       Nils Harder
 Author URI:   https://www.inventivo.de
 Tags: svg, svg media uploader, upload svg
 Requires at least: 3.0
 Tested up to: 4.9.8
-Stable tag: 0.0.2
+Stable tag: 0.0.3
 Text Domain: iventivo-addsvgsupport
 Domain Path: /languages
 License:      GPL2

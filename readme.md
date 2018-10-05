@@ -2,7 +2,7 @@
 
 # Add SVG Support for Media Uploader | inventivo
 
-Add the missing Scroll to top. Visit our Website in order to find more WordPress plugins.
+Add the missing .svg support to the WordPress uploader. Visit our Website in order to find more WordPress plugins.
 
 Visit <a href="https://www.inventivo.de/seo-muenster"> www.inventivo.de</a> in order to get more free WordPress plugins.
 
