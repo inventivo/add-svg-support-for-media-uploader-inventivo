@@ -20,7 +20,8 @@ Add SVG Support for Media Uploader
 
 == Description ==
 
-WordPress does not allow to upload .svg files out of the box. This plugin adds SVG support to the media uploader. 
+WordPress does not allow to upload .svg files out of the box. This plugin adds SVG support to the media uploader.
+Just upload and activate the plugin and you will be able to upload .svg files via the WordPress media uploader.
 
 Visit <a href="https://www.inventivo.de/seo-muenster">www.inventivo.de</a> in order to see the plugin in action.
 
