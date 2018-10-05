@@ -1,10 +1,10 @@
-![Illustration: Scroll to top | inventivo](https://ps.w.org/scroll-to-top-inventivo/assets/banner-772x250.jpg?rev=1910348)
+![Illustration: Add SVG Support for Media Uploader | inventivo](https://ps.w.org/add-svg-support-for-media-uploader-inventivo/assets/banner-772x250.png?rev=1951886)
 
 # Add SVG Support for Media Uploader | inventivo
 
 Add the missing Scroll to top. Visit our Website in order to find more WordPress plugins.
 
-Visit our <a href="https://www.inventivo.de/werbeagentur"> website</a> in order to get more free WordPress plugins.
+Visit our <a href="https://www.inventivo.de/seo-muenster"> website</a> in order to get more free WordPress plugins.
 
 **Small and simple:**
 * Responsive - fits to all screens
@@ -12,11 +12,6 @@ Visit our <a href="https://www.inventivo.de/werbeagentur"> website</a> in order 
 * Lighweight code
 
 **Get your copy of the Add SVG Support for Media Uploader Plugin now!**
-
-## Screenshots
-
-![Illustration: Scroll to top - Screenshot 1](https://ps.w.org/scroll-to-top-inventivo/trunk/screenshot-1.png?rev=1939192)
-![Illustration: Scroll to top - Screenshot 2](https://ps.w.org/scroll-to-top-inventivo/trunk/screenshot-2.png?rev=1939192)
 
 ### Prerequisites
 
