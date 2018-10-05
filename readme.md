@@ -4,7 +4,7 @@
 
 Add the missing Scroll to top. Visit our Website in order to find more WordPress plugins.
 
-Visit our <a href="https://www.inventivo.de/seo-muenster"> website</a> in order to get more free WordPress plugins.
+Visit <a href="https://www.inventivo.de/seo-muenster"> www.inventivo.de</a> in order to get more free WordPress plugins.
 
 **Small and simple:**
 * Responsive - fits to all screens
