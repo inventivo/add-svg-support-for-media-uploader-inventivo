@@ -8,7 +8,7 @@ Author:       Nils Harder
 Author URI:   https://www.inventivo.de
 Tags: svg, svg media uploader, upload svg
 Requires at least: 3.0
-Tested up to: 5.0
+Tested up to: 5.2.2
 Stable tag: 0.0.3
 Text Domain: iventivo-addsvgsupport
 Domain Path: /languages
