@@ -49,5 +49,6 @@ Use WordPress' Add New Plugin feature, searching "Add SVG Support for Media Uplo
 
 == Screenshots ==
 
+
 == Changelog ==
 0.0.3 Modified plugin info
