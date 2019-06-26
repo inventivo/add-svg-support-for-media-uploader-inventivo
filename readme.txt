@@ -15,7 +15,6 @@ Domain Path: /languages
 License:      GPL2
 License URI:  https://www.gnu.org/licenses/gpl-2.0.html
 
-
 Add SVG Support for Media Uploader
 
 == Description ==
@@ -49,7 +48,6 @@ Use WordPress' Add New Plugin feature, searching "Add SVG Support for Media Uplo
 
 
 == Screenshots ==
-
 
 == Changelog ==
 0.0.3 Modified plugin info

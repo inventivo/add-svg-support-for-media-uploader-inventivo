@@ -34,7 +34,8 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-function inv_mime_types_svg($mimes) {
+function inv_mime_types_svg($mimes)
+{
 $mimes['svg'] = 'image/svg+xml';
 return $mimes;
 }
