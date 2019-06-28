@@ -10,7 +10,7 @@ Tags: svg, svg media uploader, upload svg
 Requires at least: 3.0
 Tested up to: 5.2.2
 Stable tag: 0.0.5
-Text Domain: iventivo-addsvgsupport
+Text Domain: inventivo-addsvgsupport
 Domain Path: /languages
 License:      GPL2
 License URI:  https://www.gnu.org/licenses/gpl-2.0.html
